@@ -24,7 +24,23 @@ Planejar, prototipar, desenvolver, versionar, publicar e documentar um projeto w
 * 🌐 Presença online aumenta visibilidade e confiança dos clientes.
 * 💰 Site estático (HTML + CSS) é leve, rápido e barato de manter.
 
----
+1. Revisão e Diagnóstico do projeto atual.
+
+- O site funciona de maneira adequada nos formatos 768px e 1280px. Os botões como Início, Contato, Produtos e Sobre estão funcionando adequadamente com ações rápidas e no geral o site funciona como deveria.
+
+- Através dos cabeçalhos, rodapés e menus em todas as páginas.
+
+- O layout fica quebrado no formato Mobile 375px.
+
+- Paletas de cores mais vivas e uma adaptação em diferentes telas mais dinâmica.
+
+ 2. Modularização do código HTML.
+
+1 - O header é muito semelhante entre todas as páginas.
+2 -  Se repete da mesma maneira.
+3 - Não aparece em todas.
+4 - Os Cards presentes têm a mesma estrutura.
+5 - Ambas possuem estruturas semelhantes.
 
 ## 🔗 Link para o Protótipo (Figma)
 
