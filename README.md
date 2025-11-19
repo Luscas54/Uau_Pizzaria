@@ -54,6 +54,24 @@ Arquivos JS minificados para reduzir tamanho
 Versões .min.js utilizadas no HTML
  
 ---
+
+## 🕹️Testes Realizados
+
+Testes em Diferentes Navegadores e dispositivos. 
+
+Não há erros no script em nenhum dos navegadores nem no JavaScript ou em CORS.
+
+Os navegadores usados no computador foram Chrome, Edge e Firefox.
+No teste real Mobile foi usado o telefone Poco X6 PRO. Todos usando internet 5G.
+
+Testes realizados nas resoluções - 375x667, 390x844, 768x1024, 1024x1366, 1280x720 e 1920x1080.
+
+Testes no Mobile
+
+Funcionaram corretamente em um celular Xiaomi Android com Touch funcionando e carregamento rápido, usando o navegador Chrome e Brave.
+
+---
+
 ## 📁 Estrutura de Pastas e Arquivos
 
 ```
